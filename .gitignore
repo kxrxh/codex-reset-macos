@@ -1,0 +1,14 @@
+.DS_Store
+.impeccable/
+PRODUCT.md
+work/
+outputs/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.env*
+*.p12
+*.mobileprovision
+*.pem
+*.key
+*.p8
