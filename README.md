@@ -4,8 +4,6 @@ Native macOS app and medium-only widget for global reset estimates from [codex-r
 
 ## Screenshots
 
-![Codex Reset app](assets/codex-reset-app.png)
-
 ![Medium widget](assets/codex-reset-widget-medium.png)
 
 ## Install
